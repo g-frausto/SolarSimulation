@@ -7,3 +7,5 @@ In this program, Celestial bodies are intialized with the corresponding neccesar
 An object called Celestial body to store related values and methods. This was used more of as a learning experience rather than a pragmatic one. I intend to rewrite the code in Python and to simplify the methods and data structures.
 
 I used BlueJ in order to make write the program.
+
+SystemSetup file initializes the CelestialBody object
